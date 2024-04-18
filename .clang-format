@@ -1,0 +1,13 @@
+BasedOnStyle: Microsoft
+
+AllowAllArgumentsOnNextLine: 'false'
+
+AllowShortLambdasOnASingleLine: Inline
+
+AllowShortLoopsOnASingleLine: 'false'
+
+BinPackParameters: 'false'
+
+Language: Cpp
+
+Standard: Auto
